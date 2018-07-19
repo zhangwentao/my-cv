@@ -24,7 +24,7 @@ var conf = merge(baseConf,{
         new MiniCssExtractPlugin({
             // Options similar to the same options in webpackOptions.output
             // both options are optional
-            filename: "[name]-[hash].css",
+            filename: "[hash].css",
             chunkFilename: "[id].css"
         })
     ],
