@@ -12,7 +12,7 @@
 + 北京印刷学院 - 计算机科学与技术专业 - 学士学位 - 2005.9 / 2009.7 
 
 ## 技术能力
-+ 掌握 HTML, CSS, JavaScript
++ 掌握 HTML, CSS, JavaScript, ES6
 + 熟练 webpack, gulp 
 + 熟练 Node.js, npm
 + 熟练 Less, Bootstrap, Vue.js
