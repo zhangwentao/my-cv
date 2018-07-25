@@ -31,7 +31,7 @@
 > 负责，人人音乐音频播放flash组件，[人人相册flash上传组件(支持图片的分块，断点续传)](https://github.com/zhangwentao/pic_upload/tree/release), [swf与js进行通讯模块](https://github.com/zhangwentao/ExternalEvent)的设计开发; 负责，线上活动flash交互开发；参与Social Wiki项目web前端开发。
 + WEB前端工程师 - 正和岛 - 2012.11 / 今
 > 移动端web开发；hybrid移动应用；微信公众号web开发；pc端开发；CMS管理系统前端开发；微信小程序开发: 正和岛公开课，信用微名片。
-+ [详细项目经历>>](/exp.html)
++ [>>详细项目经历](/exp.html)
 
 ## 个人兴趣
 + 运动，健身，跑步
