@@ -5,7 +5,7 @@
 + 张文韬 - 男 - 1987 - 北京
 + 手机: [15601040943](tel:15601040943)
 + 电邮: [taowenzhang@gmail.com](mailto:taowenzhang@gmail.com)
-+ 博客: [blog.wentao.me](http://blog.wentao.me)
++ 主页: [wentao.me](https://wentao.me)
 + github: [github.com/zhangwentao](https://github.com/zhangwentao)
 
 ## 教育背景
